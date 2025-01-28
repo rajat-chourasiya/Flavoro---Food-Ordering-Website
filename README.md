@@ -1,3 +1,4 @@
+![img](https://github.com/rajat-chourasiya/Flavoro---Food-Ordering-Website/blob/main/sc.jpg?raw=true)
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
